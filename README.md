@@ -73,3 +73,5 @@ My research follows a structured methodology:
 By manipulating the `id` parameter in the profile URL, I could view private data of any registered student.
 
 **Proof of Concept**
+user/profile.php?id=38480 (My Profile)
+user/profile.php?id=38475 (Victim Profile)
